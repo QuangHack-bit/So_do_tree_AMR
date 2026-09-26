@@ -149,4 +149,4 @@ ros2_ws/
 │
 ├── build/                             # colcon tạo ra, không chỉnh tay
 ├── install/                           # colcon tạo ra, không chỉnh tay
-└── log/                               # colcon tạo ra, không chỉnh tay
+└── log/                               # colcon tạo ra, không chỉnh ta
