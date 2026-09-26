@@ -1,3 +1,4 @@
+```text
 amr_excellent_project/
 │
 ├── README.md                                  # Tổng quan dự án
@@ -767,3 +768,4 @@ amr_excellent_project/
     ├── lint.sh
     ├── build.sh
     └── test.sh
+```
